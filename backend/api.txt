@@ -1,0 +1,29 @@
+User Routes: ( /api/users )
+    POST /api/users/register
+
+    POST /api/users/login
+
+    GET /api/users/user (protected)
+
+Recipe Routes: ( /api/recipes )
+
+    POST /api/recipes/newRecipe (protected)
+
+    GET /api/recipes/ (protected)
+
+    GET /api/recipes/:id (protected)
+
+    GET /api/recipes/user/:userId (protected)
+
+    POST /api/recipes/save/:recipeId (protected)
+
+    GET /api/recipes/savedRecipes/:userId (protected)
+
+    PUT /api/recipes/:id (protected)
+
+    DELETE /api/recipes/:id (protected)
+
+Test Routes:
+    GET /api/test --> API is working!
+
+    POST /api/test --> POST is working!
