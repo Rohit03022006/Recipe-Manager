@@ -73,7 +73,11 @@ Start the frontend server:
 npm start
 ```
 
+<<<<<<< HEAD
 Open your browser at [http://localhost:5173](http://localhost:5173).
+=======
+Open your browser at [http://localhost:3000](http://localhost:3000).
+>>>>>>> 10365080513d1b19bffdc5ba538b2ec661119a95
 
 ---
 
@@ -85,6 +89,17 @@ Open your browser at [http://localhost:5173](http://localhost:5173).
 cd backend
 npm test
 ```
+<<<<<<< HEAD
+=======
+
+* **Frontend tests:**
+
+```bash
+cd frontend
+npm test
+```
+
+>>>>>>> 10365080513d1b19bffdc5ba538b2ec661119a95
 ---
 
 ## API Endpoints
@@ -117,6 +132,7 @@ npm test
 
 | Page          | Screenshot                                                                                               |
 | ------------- | -------------------------------------------------------------------------------------------------------- |
+<<<<<<< HEAD
 
 | Home/Base     | ![Home](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/base.png)                   |
 | Login         | ![Login](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/login.png)                 |
@@ -124,6 +140,14 @@ npm test
 | Register      | ![Register](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/register.png)           |
 | Create Recipe | ![Create Recipe](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/create-recipe.png) |
 | About         | ![About](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/about.png)                 |
+=======
+| About         | ![About](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/about.png)                 |
+| Home/Base     | ![Home](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/base.png)                   |
+| Create Recipe | ![Create Recipe](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/create-recipe.png) |
+| Login         | ![Login](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/login.png)                 |
+| Profile       | ![Profile](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/profile.png)             |
+| Register      | ![Register](https://github.com/Rohit03022006/Recipe-Manager/blob/main/Images/Web/register.png)           |
+>>>>>>> 10365080513d1b19bffdc5ba538b2ec661119a95
 
 ---
 
