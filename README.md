@@ -267,6 +267,12 @@ docker-compose up --build
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/Rohit03022006/Recipe-Manager/blob/main/LICENSE)) file for details.
+
+---
+
 ## Contact
 
 * **Email:** [kumarrohit67476@gmail.com](mailto:kumarrohit67476@gmail.com)
